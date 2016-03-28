@@ -1,0 +1,2 @@
+# Android_Chap18_HandlingRotation
+Android_Chap18_HandlingRotation
